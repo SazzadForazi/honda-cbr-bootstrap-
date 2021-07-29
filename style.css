@@ -1,0 +1,33 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* .thumbnil {
+    position: relative;
+    width: 50%;
+  }
+  
+  .image {
+    opacity: 1;
+    display: block;
+    width: 100%;
+    height: auto;
+    transition: .5s ease;
+    backface-visibility: hidden;
+  }
+  
+  
+  .thumbnil:hover .image {
+    opacity: 0.3;
+ background-color:gray;
+  }
+  
+   */
+
+.small{
+font-size: 100!important;
+}
+
+.gray-img{
+    filter: grayscale(100%);
+}
